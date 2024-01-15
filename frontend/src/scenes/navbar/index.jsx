@@ -62,11 +62,9 @@ const Navbar = () => {
                             opacity: "80%",
                             cursor: 'pointer'
                         },
-                        background: "-webkit-linear-gradient(45deg, #ff0077 30%, #2403ff 90%)",
+                        background: "-webkit-linear-gradient(45deg, #E536AB 30%, #04FDC7 90%)",
                         WebkitBackgroundClip: "text",
                         WebkitTextFillColor: "transparent",
-
-
 
                     }}
                 >
